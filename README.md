@@ -1,6 +1,9 @@
 # andreev_spectra
 
-Numerical code accompanying the paper 'Zeeman and spin-orbit effects in the Andreev spectra of nanowire junctions"
+Numerical code accompanying the paper
+
+"Zeeman and spin-orbit effects in the Andreev spectra of nanowire junctions"
+
 by Bernard van Heck, Jukka Vayrynen and Leonid Glazman (Yale university).
 
 This repository contains two files:
