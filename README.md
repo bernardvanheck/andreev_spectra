@@ -11,4 +11,4 @@ This repository contains two files:
 1) andreev_spectrum_wire_model.py, containing the code used to numerically find the Andreev bound state energies and wave functions.
 2) abs_numerics_and_figures.ipynb, a Jupyter notebook which can be used to reproduce the numerical figures presented in the paper.
 
-The numerical code essentially consists of a root finding function tailored to the determinant equation (25) derived in the paper.
+The numerical code essentially consists of a root finding function tailored to the determinant equation derived in the paper.
