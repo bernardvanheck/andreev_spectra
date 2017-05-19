@@ -5,7 +5,7 @@ Accompanying numerical code
 """
 
 import numpy as np
-from scipy.optimize import brentq,
+from scipy.optimize import brentq
 from scipy.integrate import quad
 from scipy.linalg import expm
 import scipy.sparse.linalg as sla
