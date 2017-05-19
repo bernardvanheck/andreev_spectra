@@ -5,25 +5,12 @@ Accompanying numerical code
 """
 
 import numpy as np
-from scipy.optimize import (
-    brentq,
-    #curve_fit, 
-    fsolve,
-    leastsq,
-    minimize,
-    minimize_scalar,
-    fmin
-)
+from scipy.optimize import brentq,
 from scipy.integrate import quad
 from scipy.linalg import expm
 import scipy.sparse.linalg as sla
 import matplotlib.pyplot as plt
-from matplotlib import cm
-import warnings
-import os
-import re
 
-warnings.filterwarnings("error")
 
 class SimpleNamespace(object):
     """A simple container for parameters.
