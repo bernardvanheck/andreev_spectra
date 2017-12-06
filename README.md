@@ -4,6 +4,9 @@ Numerical code accompanying the paper
 
 "Zeeman and spin-orbit effects in the Andreev spectra of nanowire junctions"
 
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.075404
+https://arxiv.org/pdf/1705.09671.pdf
+
 by Bernard van Heck, Jukka Vayrynen and Leonid Glazman (Yale university).
 
 This repository contains two files:
